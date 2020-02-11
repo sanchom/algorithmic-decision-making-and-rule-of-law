@@ -1,6 +1,14 @@
 # Algorithmic Decision-Making and the Rule of Law
 
-## Theory
+## Sessions
+
+### February 6, 2020
+
+### November 21, 2019
+
+## Bibliography
+
+### Theory
 
 -   Mireille Hildebrandt, [*Law for Computer
     Scientists*](https://lawforcomputerscientists.pubpub.org/) (Oxford
@@ -19,7 +27,7 @@
     A Democratic Right to Public Participation and the State\'s Duty of
     Public Consultation\" (2017) 63:2 McGill LJ 375.
 
-## Case studies / application evaluations
+### Case studies / application evaluations
 
 -   Petra Molnar & Lex Gill,
     [*Bots
@@ -30,7 +38,7 @@
     Testimony](https://www.yalelawjournal.org/article/machine-testimony)\" (2017)
     126:7 Yale LJ 1972.
 
-## Industry and academic response / technical initiatives / standards creation
+### Industry and academic response / technical initiatives / standards creation
 
 -   Thoughtworks, \"Technology Radar (Vol 21)\" (20 November 2019),
     online:
@@ -63,7 +71,7 @@
 -   MIT, \"Computational Law Report\" (2019), online:
     \<[law.mit.edu](https://law.mit.edu/)\>.
 
-## Regulatory approaches and evaluation thereof
+### Regulatory approaches and evaluation thereof
 
 -   Canada, Treasury Board, *Directive on Automated Decision-Making*
     (Ottawa: Treasury Board, 2019), online:
@@ -103,12 +111,12 @@
     Inquiry into the Use of Algorithmis in Decision-Making) (April
     2017).
 
-## Judicial responses / anticipation
+### Judicial responses / anticipation
 
 -   *Canada (Minister of Citizenship and Immigration) v Vavilov*, 2019
     SCC 65.
 
-## Other reading
+### Other reading
 
 -   Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines
     Reinforce Racism* (New York: New York University Press, 2018).
