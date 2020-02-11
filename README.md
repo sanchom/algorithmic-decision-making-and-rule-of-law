@@ -6,9 +6,9 @@
     Scientists*](https://lawforcomputerscientists.pubpub.org/) (Oxford
     University Press, 2019).
 -   Anya Prince & Daniel Schwarcz,
-    \"\[\[<https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3347959>\]\[Proxy
+    [Proxy
     Discrimination in the Age of Artificial Intelligence and Big
-    Data\]\]\" (forthcoming in 2020) Iowa LR.
+    Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3347959) (forthcoming in 2020) Iowa LR.
 -   John Zerilli et al, \"[Algorithmic Decision-Making and the Control
     Problem](https://link.springer.com/article/10.1007/s11023-019-09513-7)\" (2019)
     29:4 Minds & Machines 555.
