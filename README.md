@@ -36,9 +36,9 @@
     online:
     \<assets.thoughtworks.com/assets/technology-radar-vol-21-en.pdf\>.
 -   University of MontrÃ©al,
-    \[\[<https://www.montrealdeclaration-responsibleai.com/the-declaration>\]\[/Montreal
+    [/Montreal
     Declaration for a Responsible Development of Artificial
-    Intellgence/\]\] (2017).
+    Intellgence/](https://www.montrealdeclaration-responsibleai.com/the-declaration) (2017).
 -   Amnesty International & Access Now, [*The Toronto Declaration:
     Protecting the Right to Equality in Machine
     Learning*](https://www.torontodeclaration.org) (2018).
