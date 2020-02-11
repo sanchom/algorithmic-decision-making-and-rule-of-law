@@ -105,7 +105,7 @@
 
 ## Judicial responses / anticipation
 
--   *Canada (Minister of Citizenship and Immigration v Vavilov*, 2019
+-   *Canada (Minister of Citizenship and Immigration) v Vavilov*, 2019
     SCC 65.
 
 ## Other reading
