@@ -22,9 +22,9 @@
 ## Case studies / application evaluations
 
 -   Petra Molnar & Lex Gill,
-    \[\[<https://citizenlab.ca/wp-content/uploads/2018/09/IHRP-Automated-Systems-Report-Web-V2.pdf>\]\[Bots
+    [*Bots
     at the Gate: A Human Rights Analysis of Automated Decision-Making in
-    Canada\'s Immigration and Refugee System\]\] (Toronto: International
+    Canada's Immigration and Refugee System*](https://citizenlab.ca/wp-content/uploads/2018/09/IHRP-Automated-Systems-Report-Web-V2.pdf) (Toronto: International
     Human Rights Program and Citizen Lab, 2018).
 -   Andrea Roth, \"[Machine
     Testimony](https://www.yalelawjournal.org/article/machine-testimony)\" (2017)
