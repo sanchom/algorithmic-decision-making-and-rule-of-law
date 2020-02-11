@@ -34,8 +34,8 @@
 
 -   Thoughtworks, \"Technology Radar (Vol 21)\" (20 November 2019),
     online:
-    \<assets.thoughtworks.com/assets/technology-radar-vol-21-en.pdf\>.
--   University of MontrÃ©al,
+    <assets.thoughtworks.com/assets/technology-radar-vol-21-en.pdf>.
+-   University of Montréal,
     [*Montreal
     Declaration for a Responsible Development of Artificial
     Intellgence*](https://www.montrealdeclaration-responsibleai.com/the-declaration) (2017).
