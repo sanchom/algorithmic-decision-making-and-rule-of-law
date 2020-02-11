@@ -47,9 +47,9 @@
     Algorithms](https://munkschool.utoronto.ca/mowatcentre/governing-the-future-creating-standards-for-artificial-intelligence-and-algorithms/)\"
     (3 June 2019).
 -   Sandra Wachter, Brent Mittelstadt & Chris Russell,
-    \"\[\[<https://jolt.law.harvard.edu/assets/articlePDFs/v31/Counterfactual-Explanations-without-Opening-the-Black-Box-Sandra-Wachter-et-al.pdf>\]\[Counterfactual
+    "[Counterfactual
     Explanations without Opening the Black Box: Automated Decisions and
-    the GDPR\]\]\" (2018) 31:2 Harvard J Law & Tech 841.
+    the GDPR](https://jolt.law.harvard.edu/assets/articlePDFs/v31/Counterfactual-Explanations-without-Opening-the-Black-Box-Sandra-Wachter-et-al.pdf)" (2018) 31:2 Harvard J Law & Tech 841.
 -   Google Pair, \"What-If Tool\", online
     \<pair-code.github.io/what-if-tool\>.
 -   Google, \"Explainable AI\", online:
