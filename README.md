@@ -4,7 +4,14 @@
 
 ### February 6, 2020
 
+-  Discussion of Anya Prince & Daniel Schwarcz,
+    "[Proxy
+    Discrimination in the Age of Artificial Intelligence and Big
+    Data](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3347959)" (forthcoming in 2020) Iowa LR.
+
 ### November 21, 2019
+
+-  Introductory session. Discussed general terminology, assumptions, and goals of algorithmic/AI decision-making. Discussion was based around Hildebrandt's Chapter 2, Wachter, Mittelstadt & Russell's "Counterfactual Explanations", Molnar and Gil's *Bots at the Gate*, and the Treasury Board's *Directive on Automated Decision-Making*.
 
 ## Bibliography
 
