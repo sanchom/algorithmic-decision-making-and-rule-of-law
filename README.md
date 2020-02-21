@@ -82,7 +82,7 @@ Join the UBC-hosted mailing list by emailing listserv@lists.ubc.ca with the word
     \<[www.darpa.mil/attachments/XAIProgramUpdate.pdf](https://www.darpa.mil/attachments/XAIProgramUpdate.pdf)\>.
 -   MIT, \"Computational Law Report\" (2019), online:
     \<[law.mit.edu](https://law.mit.edu/)\>.
--   Crawford et al, *AI Now 2019 Report* (New York: AI Now Institute, 2019), online: \<ainowinstitute.org/AI_Now_2019_Report.html\> (annual report from an institute focused on the social implications of AI technology; recommendations for government and industry relating to workers rights, privacy, decision-making, and accountability)
+-   Crawford et al, *AI Now 2019 Report* (New York: AI Now Institute, 2019), online: \<[ainowinstitute.org/AI_Now_2019_Report.html](ainowinstitute.org/AI_Now_2019_Report.html)\> (annual report from an institute focused on the social implications of AI technology; recommendations for government and industry relating to workers rights, privacy, decision-making, and accountability)
 
 ### Regulatory approaches and evaluation thereof
 
@@ -124,7 +124,7 @@ Join the UBC-hosted mailing list by emailing listserv@lists.ubc.ca with the word
     Inquiry into the Use of Algorithmis in Decision-Making) (April
     2017).
 
-### Judicial responses / anticipation
+### Judicial context
 
 -   *Canada (Minister of Citizenship and Immigration) v Vavilov*, 2019
     SCC 65.
