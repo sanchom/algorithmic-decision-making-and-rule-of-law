@@ -77,6 +77,7 @@
     \<[www.darpa.mil/attachments/XAIProgramUpdate.pdf](https://www.darpa.mil/attachments/XAIProgramUpdate.pdf)\>.
 -   MIT, \"Computational Law Report\" (2019), online:
     \<[law.mit.edu](https://law.mit.edu/)\>.
+-   Crawford et al, *AI Now 2019 Report* (New York: AI Now Institute, 2019), online: \<ainowinstitute.org/AI_Now_2019_Report.html\> ().
 
 ### Regulatory approaches and evaluation thereof
 
