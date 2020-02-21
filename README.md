@@ -1,6 +1,11 @@
 # Algorithmic Decision-Making and the Rule of Law
 
+Join the UBC-hosted mailing list by emailing listserv@lists.ubc.ca with the words
+“subscribe UBC-ALGORITHMS-RULE-OF-LAW” in the body.
+
 ## Sessions
+
+### Next session TBD
 
 ### February 6, 2020
 
@@ -77,7 +82,7 @@
     \<[www.darpa.mil/attachments/XAIProgramUpdate.pdf](https://www.darpa.mil/attachments/XAIProgramUpdate.pdf)\>.
 -   MIT, \"Computational Law Report\" (2019), online:
     \<[law.mit.edu](https://law.mit.edu/)\>.
--   Crawford et al, *AI Now 2019 Report* (New York: AI Now Institute, 2019), online: \<ainowinstitute.org/AI_Now_2019_Report.html\> ().
+-   Crawford et al, *AI Now 2019 Report* (New York: AI Now Institute, 2019), online: \<ainowinstitute.org/AI_Now_2019_Report.html\> (annual report from an institute focused on the social implications of AI technology; recommendations for government and industry relating to workers rights, privacy, decision-making, and accountability)
 
 ### Regulatory approaches and evaluation thereof
 
