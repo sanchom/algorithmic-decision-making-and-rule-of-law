@@ -80,6 +80,8 @@ Join the UBC-hosted mailing list by emailing listserv@lists.ubc.ca with the word
     AI When We Don\'t Need To? A Lesson From An Explainable AI
     Competition\" (2019) 1:2 Harvard Data Science Review, DOI:
     \<[10.1162/99608f92.5a8a3a3d](https://doi.org/10.1162/99608f92.5a8a3a3d)\>.
+-   Cynthia Rudin, \"Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead\"
+    (2019) 1 Nature Machine Intelligence 206, DOI: \<[10.1038/s42256-019-0048-x](https://doi.org/10.1038/s42256-019-0048-x)\>.
 -   DARPA, \"Explainable AI Program Update\" (November 2017), online:
     \<[www.darpa.mil/attachments/XAIProgramUpdate.pdf](https://www.darpa.mil/attachments/XAIProgramUpdate.pdf)\>.
 -   MIT, \"Computational Law Report\" (2019), online:
