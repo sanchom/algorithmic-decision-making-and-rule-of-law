@@ -137,3 +137,4 @@ Join the UBC-hosted mailing list by emailing listserv@lists.ubc.ca with the word
 
 -   Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines
     Reinforce Racism* (New York: New York University Press, 2018).
+-   Michael Kearns & Aaron Roth, *The Ethical Algorithm: The Science of Socially Aware Algorithm Design* (New York, Oxford University Press: 2019); *Ipse Dixit*, "Aaron Roth & Michael Kearns on Ethical Algorithms" (podcast) (2 March 2019), online: \<[shows.acast.com/ipse-dixit/episodes/aaron-roth-michael-kearns-on-ethical-algorithms](https://shows.acast.com/ipse-dixit/episodes/aaron-roth-michael-kearns-on-ethical-algorithms)\>.
