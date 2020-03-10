@@ -114,6 +114,7 @@ Join the UBC-hosted mailing list by emailing listserv@lists.ubc.ca with the word
     Framework for Algorithmic Accountability and
     Transparency](https://www.europarl.europa.eu/RegData/etudes/STUD/2019/624262/EPRS_STU(2019)624262_EN.pdf)\"
     by Ansgar Koene et al (Brussels: April 2019).
+-   EC, "On Artificial Intelligence -A European approach to excellence and trust" (White Paper), online: \<[ec.europa.eu/info/files/white-paper-artificial-intelligence-european-approach-excellence-and-trust_en](https://ec.europa.eu/info/files/white-paper-artificial-intelligence-european-approach-excellence-and-trust_en)\>
 -   Lorna McGregor, Daragh Murray & Vivian Ng, \"[International Human
     Rights Law as a Framework for Algorithmic
     Accountability](https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/international-human-rights-law-as-a-framework-for-algorithmic-accountability/1D6D0A456B36BA7512A6AFF17F16E9B6)\" (2019)
