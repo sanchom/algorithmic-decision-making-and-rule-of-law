@@ -5,6 +5,8 @@ Check out [this Q&A](http://www.allard.ubc.ca/news-events/ubc-law-news/bridging-
 Join the UBC-hosted mailing list by emailing listserv@lists.ubc.ca with the words
 “subscribe UBC-ALGORITHMS-RULE-OF-LAW” in the body.
 
+And please share your suggestions for this bibliography by [opening an issue](https://github.com/sanchom/algorithmic-decision-making-and-rule-of-law/issues) or just email sanchom@gmail.com.
+
 ## Sessions
 
 ### Next session TBD
