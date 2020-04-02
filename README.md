@@ -88,7 +88,8 @@ And please share your suggestions for this bibliography by [opening an issue](ht
     \<[www.darpa.mil/attachments/XAIProgramUpdate.pdf](https://www.darpa.mil/attachments/XAIProgramUpdate.pdf)\>.
 -   MIT, \"Computational Law Report\" (2019), online:
     \<[law.mit.edu](https://law.mit.edu/)\>.
--   Crawford et al, *AI Now 2019 Report* (New York: AI Now Institute, 2019), online: \<[ainowinstitute.org/AI_Now_2019_Report.html](ainowinstitute.org/AI_Now_2019_Report.html)\> (annual report from an institute focused on the social implications of AI technology; recommendations for government and industry relating to workers rights, privacy, decision-making, and accountability)
+-   Crawford et al, *AI Now 2019 Report* (New York: AI Now Institute, 2019), online: \<[ainowinstitute.org/AI_Now_2019_Report.html](ainowinstitute.org/AI_Now_2019_Report.html)\> (annual report from an institute focused on the social implications of AI technology; recommendations for government and industry relating to workers rights, privacy, decision-making, and accountability).
+-   Harrison Edwards & Amos Storkey, "Censoring Representations with an Adversary" (2015) International Conference on Learning Representations, online: \<[arXiv/1511.05897](https://arxiv.org/abs/1511.05897)\>.
 
 ### Regulatory approaches and evaluation thereof
 
