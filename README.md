@@ -63,7 +63,7 @@ And please share your suggestions for this bibliography by [opening an issue](ht
 
 ### Industry and academic response / technical initiatives / standards creation
 
--   Nenad Tomašev et al, \"AI for Social Good: Unlocking the Opportunity for Positive Impact\", (18 May 2020) 11 Nature Communications, online: \<doi.org/10.1038/s41467-020-15871-z\>.
+-   Nenad Tomašev et al, \"AI for Social Good: Unlocking the Opportunity for Positive Impact\", (18 May 2020) 11 Nature Communications, online: \<[doi.org/10.1038/s41467-020-15871-z](https://doi.org/10.1038/s41467-020-15871-z)\>.
 -   Thoughtworks, \"Technology Radar (Vol 21)\" (20 November 2019),
     online:
     <assets.thoughtworks.com/assets/technology-radar-vol-21-en.pdf>.
