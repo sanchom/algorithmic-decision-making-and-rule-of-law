@@ -11,6 +11,13 @@ And please share your suggestions for this bibliography by [opening an issue](ht
 
 ### Next session TBD
 
+### March 31, 2020
+
+-   Sandra Wachter, Brent Mittelstadt & Chris Russell,
+    "[Counterfactual
+    Explanations without Opening the Black Box: Automated Decisions and
+    the GDPR](https://jolt.law.harvard.edu/assets/articlePDFs/v31/Counterfactual-Explanations-without-Opening-the-Black-Box-Sandra-Wachter-et-al.pdf)" (2018) 31:2 Harvard J Law & Tech 841.
+
 ### February 6, 2020
 
 -  Discussion of Anya Prince & Daniel Schwarcz,
