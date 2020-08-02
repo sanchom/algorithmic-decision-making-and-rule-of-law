@@ -5,11 +5,13 @@ Check out [this Q&A](http://www.allard.ubc.ca/news-events/ubc-law-news/bridging-
 Join the UBC-hosted mailing list by emailing listserv@lists.ubc.ca with the words
 “subscribe UBC-ALGORITHMS-RULE-OF-LAW” in the body.
 
-And please share your suggestions for this bibliography by [opening an issue](https://github.com/sanchom/algorithmic-decision-making-and-rule-of-law/issues) or just email sanchom@gmail.com.
+And please share your suggestions for this bibliography and/or future sessions by [opening an issue](https://github.com/sanchom/algorithmic-decision-making-and-rule-of-law/issues) or just email sanchom@gmail.com.
 
 ## Sessions
 
-### Next session TBD
+### Next session August 6, 2020
+
+- Nenad Tomašev et al, \"AI for Social Good: Unlocking the Opportunity for Positive Impact\", (18 May 2020) 11 Nature Communications, online: \<[doi.org/10.1038/s41467-020-15871-z](https://doi.org/10.1038/s41467-020-15871-z)\>. (With guest discussion leads: Nenad Tomašev and Shakir Mohamed, two of this paper's co-authors.)
 
 ### March 31, 2020
 
