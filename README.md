@@ -11,7 +11,10 @@ Thanks to Peter A. Allard School of Law and Professor Cristie Ford for supportin
 
 ## Sessions
 
-### Next session August 6, 2020
+### Next session TBA
+
+
+### August 6, 2020
 
 - Nenad Tomašev et al, \"AI for Social Good: Unlocking the Opportunity for Positive Impact\", (18 May 2020) 11 Nature Communications, online: \<[doi.org/10.1038/s41467-020-15871-z](https://doi.org/10.1038/s41467-020-15871-z)\>. (With guest discussion leads: Nenad Tomašev and Shakir Mohamed, two of this paper's co-authors.)
 
