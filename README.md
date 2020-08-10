@@ -7,6 +7,8 @@ Join the UBC-hosted mailing list by emailing listserv@lists.ubc.ca with the word
 
 And please share your suggestions for this bibliography and/or future sessions by [opening an issue](https://github.com/sanchom/algorithmic-decision-making-and-rule-of-law/issues) or just email sanchom@gmail.com.
 
+Thanks to Peter A. Allard School of Law and Professor Cristie Ford for supporting this group.
+
 ## Sessions
 
 ### Next session August 6, 2020
