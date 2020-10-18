@@ -150,7 +150,8 @@ Thanks to Peter A. Allard School of Law and Professor Cristie Ford for supportin
 ### Judicial context
 
 -   *Canada (Minister of Citizenship and Immigration) v Vavilov*, 2019
-    SCC 65.
+    SCC 65 (framework for judicial, substantive review of administrative action).
+-   *Fraser v Canada (Attorney General)*, 2020 SCC 28 (disparate-impact / adverse-effects claims under s. 15 of the *Charter*)
 
 ### Other reading
 
