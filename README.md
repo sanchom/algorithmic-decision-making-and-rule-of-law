@@ -1,6 +1,6 @@
 # Algorithmic Decision-Making and the Rule of Law
 
-Check out [this Q&A](http://www.allard.ubc.ca/news-events/ubc-law-news/bridging-gap-between-law-and-technology) for more information about this semi-regular reading group.
+Check out [this Q&A](http://www.allard.ubc.ca/news-events/ubc-law-news/bridging-gap-between-law-and-technology) for more information about this semi-regular, interdisciplinary reading group.
 
 Join the UBC-hosted mailing list by emailing listserv@lists.ubc.ca with the words
 “subscribe UBC-ALGORITHMS-RULE-OF-LAW” in the body.
