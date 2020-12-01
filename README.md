@@ -13,6 +13,9 @@ Thanks to Peter A. Allard School of Law and Professor Cristie Ford for supportin
 
 ### Next session TBA
 
+### November 24, 2020
+
+- Ryan Calo & Danielle Keats Citron, \"The Automated Administrative State: A Crisis of Legitimacy\", Emory Law Journal \[forthcoming in 2020\], online: \<[papers.ssrn.com/sol3/papers.cfm?abstract_id=3553590](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3553590)\>.
 
 ### August 6, 2020
 
