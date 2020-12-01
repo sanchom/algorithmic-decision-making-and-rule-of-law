@@ -59,6 +59,8 @@ Thanks to Peter A. Allard School of Law and Professor Cristie Ford for supportin
 -   Mary Liston, \"Expanding the Parameters of Participatory Public Law:
     A Democratic Right to Public Participation and the State\'s Duty of
     Public Consultation\" (2017) 63:2 McGill LJ 375.
+-   Ryan Calo & Danielle Keats Citron, \"The Automated Administrative State: A Crisis of Legitimacy\", Emory Law Journal \[forthcoming in 2020\], online: 
+    \<[papers.ssrn.com/sol3/papers.cfm?abstract_id=3553590](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3553590)\>.
 
 ### Case studies / application evaluations
 
