@@ -11,7 +11,9 @@ Thanks to Peter A. Allard School of Law and Professor Cristie Ford for supportin
 
 ## Sessions
 
-### Next session TBA
+### March 24, 2021
+
+- Kathleen Creel & Deborah Hellman, \"The Algorithmic Leviathan: Arbitrariness, Fairness, and Opportunity in Algorithmic Decision Making Systems\" (2021) ACM Conference on Fairness, Accountability, and Transparency, online: \<[papers.ssrn.com/sol3/papers.cfm?abstract_id=3786377](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3786377)\>.
 
 ### November 24, 2020
 
