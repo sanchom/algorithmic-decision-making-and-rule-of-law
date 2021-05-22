@@ -76,6 +76,7 @@ And please share your suggestions for this bibliography and/or future sessions b
 -   Andrea Roth, \"[Machine
     Testimony](https://www.yalelawjournal.org/article/machine-testimony)\" (2017)
     126:7 Yale LJ 1972.
+-   Law Commission of Ontario, [*The Rise and Fall of AI and Algorithms in American Criminal Justice: Lessons for Canada*](https://www.lco-cdo.org/wp-content/uploads/2020/10/Criminal-AI-Paper-Final-Oct-28-2020.pdf) (Toronto, October 2020). 
 
 ### Industry and academic response / technical initiatives / standards creation
 
@@ -142,10 +143,12 @@ And please share your suggestions for this bibliography and/or future sessions b
     Transparency](https://www.europarl.europa.eu/RegData/etudes/STUD/2019/624262/EPRS_STU(2019)624262_EN.pdf)\"
     by Ansgar Koene et al (Brussels: April 2019).
 -   EC, "On Artificial Intelligence -A European approach to excellence and trust" (White Paper), online: \<[ec.europa.eu/info/files/white-paper-artificial-intelligence-european-approach-excellence-and-trust_en](https://ec.europa.eu/info/files/white-paper-artificial-intelligence-european-approach-excellence-and-trust_en)\>
+-   Law Commission of Ontario, [*Regulating AI: Critical Issues and Choices*](https://www.lco-cdo.org/wp-content/uploads/2021/04/LCO-Regulating-AI-Critical-Issues-and-Choices-Toronto-April-2021-1.pdf) (Toronto, April 2021). 
 -   Lorna McGregor, Daragh Murray & Vivian Ng, \"[International Human
     Rights Law as a Framework for Algorithmic
     Accountability](https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly/article/international-human-rights-law-as-a-framework-for-algorithmic-accountability/1D6D0A456B36BA7512A6AFF17F16E9B6)\" (2019)
     68:2 Int\'l & Comparative LQ.
+-   Teresa Scassa, "Administrative Law and the Governance of Automated Decision-Making: A Critical Look at Canada's Directive on Automated Decision-Making" (2021) 54:1 UBC L Rev, online (preprint): \<[papers.ssrn.com/sol3/papers.cfm?abstract_id=3722192](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3722192)\>.
 -   US, Executive Office of the President, [*Big Data: A Report on
     Algorithmic Systems, Opportunity, and Civil
     Rights*](https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/2016_0504_data_discrimination.pdf)
