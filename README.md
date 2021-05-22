@@ -177,4 +177,5 @@ And please share your suggestions for this bibliography and/or future sessions b
 -   Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines
     Reinforce Racism* (New York: New York University Press, 2018).
 -   Michael Kearns & Aaron Roth, *The Ethical Algorithm: The Science of Socially Aware Algorithm Design* (New York, Oxford University Press: 2019); *Ipse Dixit*, "Aaron Roth & Michael Kearns on Ethical Algorithms" (podcast) (2 March 2019), online: \<[shows.acast.com/ipse-dixit/episodes/aaron-roth-michael-kearns-on-ethical-algorithms](https://shows.acast.com/ipse-dixit/episodes/aaron-roth-michael-kearns-on-ethical-algorithms)\>.
+-   Florian Martin-Bariteau & Teresa Scassa, [*Artificial Intelligence and the Law in Canada*](https://techlaw.uottawa.ca/aisociety/ailawbook) (Toronto: LexisNexis, 2021) (available open access in 2022).
 -   Frake Pasquale, [*The Black Box Society: The Secret Algorithms that Control Money and Information*](https://www.hup.harvard.edu/catalog.php?isbn=9780674970847) (Cambridge: Harvard University Press, 2015).
