@@ -13,6 +13,11 @@ And please share your suggestions for this bibliography and/or future sessions b
 
 ## Sessions
 
+### Final session TBA:
+
+- Teresa Scassa, "Administrative Law and the Governance of Automated Decision-Making: A Critical Look at Canada's Directive on Automated Decision-Making" (2021) 54:1 UBC L Rev, online (preprint): \<[papers.ssrn.com/sol3/papers.cfm?abstract_id=3722192](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3722192)\> **OR**
+- Law Commission of Ontario, [*Regulating AI: Critical Issues and Choices*](https://www.lco-cdo.org/wp-content/uploads/2021/04/LCO-Regulating-AI-Critical-Issues-and-Choices-Toronto-April-2021-1.pdf) (Toronto, April 2021). 
+
 ### March 24, 2021
 
 - Kathleen Creel & Deborah Hellman, \"The Algorithmic Leviathan: Arbitrariness, Fairness, and Opportunity in Algorithmic Decision Making Systems\" (2021) ACM Conference on Fairness, Accountability, and Transparency, online: \<[papers.ssrn.com/sol3/papers.cfm?abstract_id=3786377](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3786377)\>.
