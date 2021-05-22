@@ -60,9 +60,11 @@ And please share your suggestions for this bibliography and/or future sessions b
 -   Karen Yeung & Margin Lodge, eds, [*Algorithmic
     Regulation*](https://www.oxfordscholarship.com/view/10.1093/oso/9780198838494.001.0001/oso-9780198838494-chapter-1)
     (Oxford University Press, 2019).
+-   Amanda Levendowski, \"[How Copyright Law Can Fix Artificial Intelligence's Implicit Bias Problem](https://www.law.uw.edu/wlr/print-edition/print-edition/vol-93/2/how-copyright-law-can-fix-artificial-intelligence-s-implicit-bias-problem)\" (2018) 93:2 Wash L Rev 579.
 -   Mary Liston, \"Expanding the Parameters of Participatory Public Law:
     A Democratic Right to Public Participation and the State\'s Duty of
     Public Consultation\" (2017) 63:2 McGill LJ 375.
+-   Deirdre K Mulligan & Kenneth A Bamberger, \"[Procurement as Policy: Administrative Process for Machine Learning](https://btlj.org/data/articles2019/34_3/03_Mulligan_Web.pdf)\" (2019) 34 Berkeley Tech LJ 773
 -   Ryan Calo & Danielle Keats Citron, \"The Automated Administrative State: A Crisis of Legitimacy\", Emory Law Journal \[forthcoming in 2020\], online: 
     \<[papers.ssrn.com/sol3/papers.cfm?abstract_id=3553590](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3553590)\>.
 
@@ -73,6 +75,7 @@ And please share your suggestions for this bibliography and/or future sessions b
     at the Gate: A Human Rights Analysis of Automated Decision-Making in
     Canada's Immigration and Refugee System*](https://citizenlab.ca/wp-content/uploads/2018/09/IHRP-Automated-Systems-Report-Web-V2.pdf) (Toronto: International
     Human Rights Program and Citizen Lab, 2018).
+-   Jennifer Raso, \"[Unity in the Eye of the Beholder? Reasons for Decision in Theory and Practice in the Ontario Works Program](https://utpjournals.press/doi/pdf/10.3138/utlj.2018-0022)\" (2020) 70:1 UTLJ 1
 -   Andrea Roth, \"[Machine
     Testimony](https://www.yalelawjournal.org/article/machine-testimony)\" (2017)
     126:7 Yale LJ 1972.
@@ -131,6 +134,7 @@ And please share your suggestions for this bibliography and/or future sessions b
     General Data Protection Regulation\" (2017) 7:2 Intl Data Privacy
     Law 76, online:
     \<[academic.oup.com/idpl/article/7/2/76/3860948](https://academic.oup.com/idpl/article/7/2/76/3860948)\>.
+-   Sandra Wachter, Brent Mittelstadt & Chris Russel, \"Why Fairness Cannot Be Automated: Bridging the Gap Between EU Non-Discrimination Law and AI\" (2020), online: \<[arxiv.org/abs/2005.05906](https://arxiv.org/abs/2005.05906)\>
 -   Bryce Goodman & Seth Flaxman, \"[European Union Regulations on
     Algorithmic Decision-Making and a \'Right to
     Explanation\'](https://ora.ox.ac.uk/objects/uuid:593169ee-0457-4051-9337-e007064cf67c/download_file?safe_filename=euregs.pdf)\".
@@ -143,6 +147,7 @@ And please share your suggestions for this bibliography and/or future sessions b
     Transparency](https://www.europarl.europa.eu/RegData/etudes/STUD/2019/624262/EPRS_STU(2019)624262_EN.pdf)\"
     by Ansgar Koene et al (Brussels: April 2019).
 -   EC, "On Artificial Intelligence -A European approach to excellence and trust" (White Paper), online: \<[ec.europa.eu/info/files/white-paper-artificial-intelligence-european-approach-excellence-and-trust_en](https://ec.europa.eu/info/files/white-paper-artificial-intelligence-european-approach-excellence-and-trust_en)\>
+-   EC, *Proposal for a Regulation of the European Parliament and of the Council: Laying Down Harmonised Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending Certain Union Legislative Acts*, OJ 2021/0106/COD, online: \<[eur-lex.europa.eu/procedure/FI/2021_106](https://eur-lex.europa.eu/procedure/FI/2021_106)\>.
 -   Law Commission of Ontario, [*Regulating AI: Critical Issues and Choices*](https://www.lco-cdo.org/wp-content/uploads/2021/04/LCO-Regulating-AI-Critical-Issues-and-Choices-Toronto-April-2021-1.pdf) (Toronto, April 2021). 
 -   Lorna McGregor, Daragh Murray & Vivian Ng, \"[International Human
     Rights Law as a Framework for Algorithmic
@@ -167,6 +172,9 @@ And please share your suggestions for this bibliography and/or future sessions b
 
 ### Other reading
 
+-   Hima Lakkaraju, \"If you have less than 3 hours to spare & want to learn (almost) everything about state-of-the-art explainable [machine learning], this thread is for you!...\" (7 May 2021), online: *Twitter* \<[twitter.com](https://twitter.com/hima_lakkaraju/status/1390754121322467330)\>.
+-   Kate Crawford, [*Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence*](https://yalebooks.yale.edu/book/9780300209570/atlas-ai) (New York: Yale University Press, 2021).
 -   Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines
     Reinforce Racism* (New York: New York University Press, 2018).
 -   Michael Kearns & Aaron Roth, *The Ethical Algorithm: The Science of Socially Aware Algorithm Design* (New York, Oxford University Press: 2019); *Ipse Dixit*, "Aaron Roth & Michael Kearns on Ethical Algorithms" (podcast) (2 March 2019), online: \<[shows.acast.com/ipse-dixit/episodes/aaron-roth-michael-kearns-on-ethical-algorithms](https://shows.acast.com/ipse-dixit/episodes/aaron-roth-michael-kearns-on-ethical-algorithms)\>.
+-   Frake Pasquale, [*The Black Box Society: The Secret Algorithms that Control Money and Information*](https://www.hup.harvard.edu/catalog.php?isbn=9780674970847) (Cambridge: Harvard University Press, 2015).
